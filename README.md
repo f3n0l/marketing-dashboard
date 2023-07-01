@@ -8,7 +8,7 @@ Most of the fun happens in the /src/apibased folder. :)
 ##### Connect to different Social Media APIs, Chat GPT & more:
 
 1. Recieve Facebook Ads Metrics for two different Accounts
-..* Impressions
+- Impressions
    ..* Click Through Rate
    ..* Cost Per Click
 
