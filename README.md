@@ -50,3 +50,5 @@ Created using Horizon UI as a theme template for React and Express as backend.
 - See how the current Newsletter is performing
 - Member, Abonnements, De-Abo, compared to last Month, open Rate
 
+11. Recieve Random Quote 
+
