@@ -4,6 +4,8 @@ Created using Horizon UI as a theme template for React and Express as backend.
 
 #### Most of the fun happens in the /src/apibased folder. :)
 
+Note: some awkward spaces occured due to deletion of sensible data
+
 ![WhatsApp Image 2023-07-01 at 16 37 48](https://github.com/f3n0l/marketing-dashboard/assets/105048036/105324a3-f05a-4923-906f-0c620cd8ef3f)
 
 #### Connect to different Social Media APIs, Chat GPT & more:
@@ -18,7 +20,7 @@ Created using Horizon UI as a theme template for React and Express as backend.
 - Total Website Clicks
 - Average Visit Duration
 - Used Devices
-- 
+
 ![WhatsApp Image 2023-07-01 at 16 37 48(2)](https://github.com/f3n0l/marketing-dashboard/assets/105048036/b9b37ce5-b8af-46d7-b712-0bc5f3e75bf3)
 
 
